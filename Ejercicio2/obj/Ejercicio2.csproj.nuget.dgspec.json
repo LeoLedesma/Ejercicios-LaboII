@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj": {}
+    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj": {
+    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj",
         "projectName": "Ejercicio2",
-        "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj",
+        "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio2\\Ejercicio2.csproj",
         "packagesPath": "C:\\Users\\leone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicio2\\obj\\",
+        "outputPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leone\\AppData\\Roaming\\NuGet\\NuGet.Config",

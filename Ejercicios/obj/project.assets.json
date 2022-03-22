@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicios\\Ejercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicios\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicios\\Ejercicio1.csproj",
+      "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicios\\Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\leone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicios\\obj\\",
+      "outputPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leone\\AppData\\Roaming\\NuGet\\NuGet.Config",

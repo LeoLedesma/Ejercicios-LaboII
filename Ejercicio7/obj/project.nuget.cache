@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHr16T+7X4nF5hmWWQqWJChE1qOURKPuEL7IWaTOuKpydioybl77A2k7+DFBrkSKJ0DLE92kNM2gaABQj4txDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio7\\Ejercicio7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leone\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OaAGSOmruabAh060UKxdVv9f3VOa5Am2yobCTDMsjsj1DsDlbtQhaw1aOJIBQO98qjKtDe0dJf/Qxp/ymtUwXQ==",
+  "dgSpecHash": "F+0gOxnilHD5Z0kj1tROeBntk5/4X/tL8TCcfkC7/Jbi8O8ZawovgG8eTF8o0NbldQGTHVVrolBB2pcSnL1xMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Ejercicios-LaboII\\Ejercicio3\\Ejercicio3.csproj",
+  "projectFilePath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Ejercicio3\\Ejercicio3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leone\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
