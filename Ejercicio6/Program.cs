@@ -17,12 +17,13 @@ namespace Guia___Ejercicio_6
 
             do
             {
-            Console.Write("Por favor ingrese un año de inicio para buscar años bisiestos: ");
-            lecturaA = Console.ReadLine();
-            Console.Write("Por favor ingrese un año de fin para buscar años bisiestos: ");
-            lecturaB = Console.ReadLine();
+                Console.Clear();
+                Console.Write("Por favor ingrese un año de inicio para buscar años bisiestos: ");
+                lecturaA = Console.ReadLine();
+                Console.Write("Por favor ingrese un año de fin para buscar años bisiestos: ");
+                lecturaB = Console.ReadLine();
 
-            }while(int.TryParse(lecturaA, out anioInicio) && int.TryParse(lecturaB, out anioFin)
+            } while (!int.TryParse(lecturaA, out anioInicio) || !int.TryParse(lecturaB, out anioFin) || anioFin<anioInicio);
 
 
             for (int i = anioInicio; i <= anioFin; i++)
