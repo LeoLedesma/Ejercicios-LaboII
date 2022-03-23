@@ -40,6 +40,6 @@ for (int i = 0; i < 10; i++)
 
 promedio = (float) acumulador / 10;
 
-Console.WriteLine($"El valor minimo ingresado es: {numeroMinimo}\nEl valor maximo ingresado es: {numeroMaximo}\nEl promedio de todos los numeros es: {promedio}");
+//Console.WriteLine($"El valor minimo ingresado es: {numeroMinimo}\nEl valor maximo ingresado es: {numeroMaximo}\nEl promedio de todos los numeros es: {promedio}");
 
 

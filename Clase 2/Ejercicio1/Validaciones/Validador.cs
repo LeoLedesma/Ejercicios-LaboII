@@ -6,7 +6,5 @@
         {
            return valor >= min && valor <= max;
         }
-
-
     }
 }
