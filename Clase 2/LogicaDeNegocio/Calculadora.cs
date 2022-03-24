@@ -69,6 +69,11 @@ namespace LogicaDeNegocio
             return tabla.ToString();
         }
 
+        public static double CalcularTeoremaDePitagoras(double catetoA, double catetoB)
+        {
+            return Math.Sqrt(Math.Pow(catetoA, 2) + Math.Pow(catetoB, 2));
+        }
+
     }
 
     

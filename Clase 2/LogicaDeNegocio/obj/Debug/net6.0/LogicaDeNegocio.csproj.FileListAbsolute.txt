@@ -10,3 +10,15 @@ C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion
 C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\refint\LogicaDeNegocio.dll
 C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.pdb
 C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\ref\LogicaDeNegocio.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\bin\Debug\net6.0\LogicaDeNegocio.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\bin\Debug\net6.0\LogicaDeNegocio.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\bin\Debug\net6.0\LogicaDeNegocio.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\refint\LogicaDeNegocio.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\LogicaDeNegocio.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 2\LogicaDeNegocio\obj\Debug\net6.0\ref\LogicaDeNegocio.dll
