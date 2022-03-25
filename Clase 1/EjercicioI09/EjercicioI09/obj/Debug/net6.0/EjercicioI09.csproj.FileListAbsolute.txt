@@ -1,0 +1,15 @@
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\bin\Debug\net6.0\EjercicioI09.exe
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\bin\Debug\net6.0\EjercicioI09.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\bin\Debug\net6.0\EjercicioI09.runtimeconfig.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\bin\Debug\net6.0\EjercicioI09.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\bin\Debug\net6.0\EjercicioI09.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\refint\EjercicioI09.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\EjercicioI09.genruntimeconfig.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI09\EjercicioI09\obj\Debug\net6.0\ref\EjercicioI09.dll

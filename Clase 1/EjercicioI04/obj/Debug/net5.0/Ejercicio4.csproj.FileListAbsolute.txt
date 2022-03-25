@@ -1,0 +1,32 @@
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\bin\Debug\net5.0\Ejercicio4.exe
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\bin\Debug\net5.0\Ejercicio4.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.dev.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\bin\Debug\net5.0\Ejercicio4.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\bin\Debug\net5.0\Ejercicio4.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\refint\Ejercicio4.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\Ejercicio4.genruntimeconfig.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Ejercicio4\obj\Debug\net5.0\ref\Ejercicio4.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\Ejercicio4.exe
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\Ejercicio4.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\Ejercicio4.runtimeconfig.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\Ejercicio4.runtimeconfig.dev.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\Ejercicio4.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\ref\Ejercicio4.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\bin\Debug\net5.0\Ejercicio4.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\ref\Ejercicio4.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI04\obj\Debug\net5.0\Ejercicio4.genruntimeconfig.cache

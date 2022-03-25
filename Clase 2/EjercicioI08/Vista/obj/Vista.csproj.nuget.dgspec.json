@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj": {}
+    "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj": {
+    "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj",
+        "projectUniqueName": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj",
-        "packagesPath": "C:\\Users\\leone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\obj\\",
+        "projectPath": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\Vista.csproj",
+        "packagesPath": "C:\\Users\\Leonel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\EjercicioI08\\Vista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj"
+              "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj"
               }
             }
           }
@@ -62,17 +62,17 @@
         }
       }
     },
-    "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj": {
+    "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj",
         "projectName": "LogicaDeNegocio",
-        "projectPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\leone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leone\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\LogicaDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\Leonel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonel\\OneDrive\\Escritorio\\UTN Programacion\\Segundo Cuatri\\Programacion II\\Ejercicios-LaboII\\Clase 2\\LogicaDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

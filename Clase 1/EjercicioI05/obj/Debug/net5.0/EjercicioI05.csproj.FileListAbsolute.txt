@@ -1,0 +1,16 @@
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\EjercicioI05.exe
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\EjercicioI05.deps.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\EjercicioI05.runtimeconfig.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\EjercicioI05.runtimeconfig.dev.json
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\EjercicioI05.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\ref\EjercicioI05.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\bin\Debug\net5.0\EjercicioI05.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.csproj.AssemblyReference.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.AssemblyInfoInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.AssemblyInfo.cs
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\ref\EjercicioI05.dll
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.pdb
+C:\Users\Leonel\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 1\EjercicioI05\obj\Debug\net5.0\EjercicioI05.genruntimeconfig.cache
