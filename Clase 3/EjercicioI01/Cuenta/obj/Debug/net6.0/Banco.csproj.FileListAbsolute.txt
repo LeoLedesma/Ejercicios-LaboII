@@ -1,0 +1,12 @@
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\bin\Debug\net6.0\Banco.deps.json
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\bin\Debug\net6.0\Banco.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\bin\Debug\net6.0\Banco.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\Banco.pdb
+C:\Users\leone\OneDrive\Escritorio\UTN Programacion\Segundo Cuatri\Programacion II\Ejercicios-LaboII\Clase 3\EjercicioI01\Cuenta\obj\Debug\net6.0\ref\Banco.dll

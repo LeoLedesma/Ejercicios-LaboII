@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VIsta/1.0.0": {
+        "dependencies": {
+          "Banco": "1.0.0"
+        },
+        "runtime": {
+          "VIsta.dll": {}
+        }
+      },
+      "Banco/1.0.0": {
+        "runtime": {
+          "Banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VIsta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
