@@ -14,8 +14,7 @@ namespace Entidades
 
         static Estudiante()
         {
-
-            random = new Random();
+              random = new Random();
         }
 
         public Estudiante(string nombre, string apellido, string legajo)
@@ -67,7 +66,6 @@ namespace Entidades
             {
                 mensaje.AppendLine($"Alumno desaprobado");
             }
-
 
             return mensaje.ToString();
         }

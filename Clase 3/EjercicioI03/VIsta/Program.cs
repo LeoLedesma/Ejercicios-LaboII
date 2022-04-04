@@ -15,4 +15,3 @@ alumno3.SetNotaSegundoParcial(2);
 Console.WriteLine(alumno1.Mostrar());
 Console.WriteLine(alumno2.Mostrar());
 Console.WriteLine(alumno3.Mostrar());
-

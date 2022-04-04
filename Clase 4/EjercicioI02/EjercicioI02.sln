@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{5AF43982-1F30-4FF7-8173-F5052D80BFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Biblioteca\Billetes.csproj", "{EF5B1001-7BD1-4A70-A544-C0FCACCBCACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF43982-1F30-4FF7-8173-F5052D80BFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF43982-1F30-4FF7-8173-F5052D80BFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF43982-1F30-4FF7-8173-F5052D80BFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF43982-1F30-4FF7-8173-F5052D80BFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5B1001-7BD1-4A70-A544-C0FCACCBCACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5B1001-7BD1-4A70-A544-C0FCACCBCACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5B1001-7BD1-4A70-A544-C0FCACCBCACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5B1001-7BD1-4A70-A544-C0FCACCBCACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB906EB-CB54-491B-996F-3908334D2743}
+	EndGlobalSection
+EndGlobal
